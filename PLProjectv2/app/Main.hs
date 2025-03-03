@@ -4,6 +4,6 @@ import Lib
 
 main :: IO ()
 main = do
-    gameLoop posInicial
+    gameLoop linha1 linha2 linha3 linha4 linha5
 
     
