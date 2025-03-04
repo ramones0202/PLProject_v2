@@ -1,6 +1,8 @@
 module Main (main) where
 
-import Lib
+import Grid
+import Mecanicas
+import Movimentacao
 
 main :: IO ()
 main = do

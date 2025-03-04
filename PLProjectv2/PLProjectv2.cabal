@@ -25,7 +25,9 @@ source-repository head
 
 library
   exposed-modules:
-      Lib
+      Grid
+      Mecanicas
+      Movimentacao
   other-modules:
       Paths_PLProjectv2
   autogen-modules:
